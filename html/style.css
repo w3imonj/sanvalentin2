@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-height:  100vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(180deg, rgb(248, 212, 240) 52%, rgb(173, 139, 172) 100%, rgb(255, 0, 221) 100%)no-repeat;
+    font-family: 'Azeret Mono', monospace;
+    font-family: 'Urbanist', sans-serif;
+}
+
+p{
+    font-size: 20px;
+    color: #000;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.tex{
+width: 100%;
+}
